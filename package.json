@@ -1,0 +1,25 @@
+{
+  "name": "address-type",
+  "version": "1.0.0",
+  "description": "Country, State, City types & objects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aemrebasus/address-type.git"
+  },
+  "keywords": [
+    "address",
+    "city",
+    "state",
+    "country"
+  ],
+  "author": "Ahmet Emrebas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aemrebasus/address-type/issues"
+  },
+  "homepage": "https://github.com/aemrebasus/address-type#readme"
+}
